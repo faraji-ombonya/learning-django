@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'lander',
 
     'rest_framework',
+    'rest_framework_simplejwt',
     'corsheaders',
 
 ]
